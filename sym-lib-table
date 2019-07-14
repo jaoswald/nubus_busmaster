@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name 2019-03-24_15-49-22)(type Legacy)(uri "C:/Users/Joe/Documents/NuBus/NuBus BusMaster Rev C/UL_SN74ALS651ADW/KiCAD/2019-03-24_15-49-22/2019-03-24_15-49-22.lib")(options "")(descr ""))
+  (lib (name pal16l8)(type Legacy)(uri "C:/Users/Joe/Documents/NuBus/NuBus BusMaster Rev C/pal16l8.lib")(options "")(descr ""))
 )

@@ -31,7 +31,7 @@ $EndComp
 Text GLabel 850  1400 0    50   Input ~ 0
 MASTER
 $Comp
-L Logic_Programmable:PAL16L8 U18
+L pal16l8:PAL16L8 U18
 U 1 1 5CAA0C81
 P 3500 1800
 F 0 "U18" H 3500 2678 50  0000 C CNN
@@ -164,7 +164,7 @@ Wire Wire Line
 Wire Wire Line
 	3900 4100 4550 4100
 $Comp
-L Logic_Programmable:PAL16L8 U6
+L pal16l8:PAL16L8 U6
 U 1 1 5CCCFDD8
 P 6000 1900
 F 0 "U6" H 6000 2778 50  0000 C CNN
@@ -196,7 +196,7 @@ $EndComp
 Text GLabel 7900 1900 0    50   Input ~ 0
 MSTDNn
 $Comp
-L Logic_Programmable:PAL16L8 U9
+L pal16l8:PAL16L8 U9
 U 1 1 5CD8E706
 P 8400 3800
 F 0 "U9" H 8400 4678 50  0000 C CNN
