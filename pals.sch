@@ -213,4 +213,20 @@ Text GLabel 7900 4200 0    50   Input ~ 0
 MASTER
 Text GLabel 850  1900 0    50   Input ~ 0
 MASTERD
+Text GLabel 8900 3300 2    50   Output ~ 0
+GAB3
+Text GLabel 7900 3800 0    50   Input ~ 0
+ARBCYn
+Text GLabel 1850 1300 2    50   Output ~ 0
+ARBCYn
+Text GLabel 5500 1500 0    50   Input ~ 0
+ARBCYn
+Text GLabel 850  1500 0    50   Input ~ 0
+GRANT
+Text GLabel 850  1600 0    50   Input ~ 0
+RQSTn
+Text GLabel 850  1800 0    50   Input ~ 0
+ACKn
+Text GLabel 6500 1400 2    50   Output ~ 0
+ACKn
 $EndSCHEMATC

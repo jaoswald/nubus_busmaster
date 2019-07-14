@@ -616,4 +616,40 @@ Text Label 3250 4150 2    50   ~ 0
 ADn24
 Wire Bus Line
 	3350 3550 3350 4250
+Text GLabel 4900 3600 0    50   BiDi ~ 0
+CBA
+Text GLabel 7500 3550 0    50   BiDi ~ 0
+CBA
+Text GLabel 3350 6150 0    50   BiDi ~ 0
+CBA
+Text GLabel 4900 3900 0    50   BiDi ~ 0
+SBA
+Text GLabel 7500 3850 0    50   BiDi ~ 0
+SBA
+Text GLabel 3350 6450 0    50   BiDi ~ 0
+SBA
+Text GLabel 4900 3400 0    50   BiDi ~ 0
+GBAn
+Text GLabel 7500 3350 0    50   BiDi ~ 0
+GBAn
+Text GLabel 3350 5950 0    50   BiDi ~ 0
+GBAn
+Text GLabel 4900 3500 0    50   BiDi ~ 0
+CAB
+Text GLabel 7500 3450 0    50   BiDi ~ 0
+CAB
+Text GLabel 3350 6050 0    50   BiDi ~ 0
+CAB
+Text GLabel 4900 3800 0    50   BiDi ~ 0
+SAB
+Text GLabel 7500 3750 0    50   BiDi ~ 0
+SAB
+Text GLabel 3350 6350 0    50   BiDi ~ 0
+SAB
+Text GLabel 3350 6250 0    50   BiDi ~ 0
+GAB
+Text GLabel 7500 3650 0    50   BiDi ~ 0
+GAB
+Text GLabel 4900 3700 0    50   BiDi ~ 0
+GAB
 $EndSCHEMATC

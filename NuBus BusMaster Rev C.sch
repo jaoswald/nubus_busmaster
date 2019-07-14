@@ -427,12 +427,12 @@ $EndComp
 $Comp
 L 74xx:74LS04 U24
 U 2 1 5C96BEC5
-P 1850 4350
-F 0 "U24" H 1850 4667 50  0000 C CNN
-F 1 "74LS04" H 1850 4576 50  0000 C CNN
-F 2 "" H 1850 4350 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 1850 4350 50  0001 C CNN
-	2    1850 4350
+P 1900 4600
+F 0 "U24" H 1900 4917 50  0000 C CNN
+F 1 "74LS04" H 1900 4826 50  0000 C CNN
+F 2 "" H 1900 4600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 1900 4600 50  0001 C CNN
+	2    1900 4600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -811,4 +811,8 @@ F 3 "" H 1500 4800 50  0001 C CNN
 	1    1500 4800
 	1    0    0    -1  
 $EndComp
+Text GLabel 1400 4350 2    50   Output ~ 0
+CBA
+Text GLabel 800  4350 0    50   Input ~ 0
+ARBCYn
 $EndSCHEMATC
